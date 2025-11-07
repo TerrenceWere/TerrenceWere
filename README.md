@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Henry Terrence Were Shitubi 👋
 
-<!--
-**TerrenceWere/TerrenceWere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence & Data Analyst**
 
-Here are some ideas to get you started:
+I transform complex business data into actionable insights using SQL, Python, and Power BI. Currently expanding my expertise in Tableau and modern data stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **SQL:** Complex Queries, CTEs, Window Functions, Data Modeling
+- **Python:** Pandas, Matplotlib, Automation, Data Analysis  
+- **BI Tools:** Power BI (DAX, Power Query), Tableau
+- **Databases:** SQL Server, PostgreSQL, MySQL
+
+## 📊 Portfolio Projects
+🔜 **Coming Soon:** Power BI dashboards, Python data analysis projects, SQL portfolio
+
+## 📫 Connect With Me
+- 📧 Email: terrencewere@gmail.com
+- 💼 LinkedIn: [Henry Shitubi](https://ke.linkedin.com/in/terrencewere)
+
+## 🎯 Currently Learning
+- Advanced Tableau for enterprise dashboards
+- dbt for data transformation
+- Cloud data platforms
