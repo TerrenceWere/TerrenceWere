@@ -1,23 +1,30 @@
-# Hi, I'm Henry Terrence Were Shitubi 👋
+# Henry Shitubi | Business & Data Analyst
 
-**Business Intelligence & Data Analyst**
+**Bridging Business Needs with Technical Solutions**
 
-I transform complex business data into actionable insights using SQL, Python, and Power BI. Currently expanding my expertise in Tableau and modern data stacks.
+I specialize in translating complex business requirements into data-driven solutions. With expertise in both business analysis and technical implementation, I ensure projects deliver measurable business value.
 
-## 🛠️ Technical Skills
-- **SQL:** Complex Queries, CTEs, Window Functions, Data Modeling
-- **Python:** Pandas, Matplotlib, Automation, Data Analysis  
-- **BI Tools:** Power BI (DAX, Power Query), Tableau
-- **Databases:** SQL Server, PostgreSQL, MySQL
+## 🎯 Core Competencies
+- **Business Analysis**: Requirements gathering, process mapping, stakeholder management
+- **Data Analysis**: SQL, Python, Power BI, Tableau
+- **Project Delivery**: Agile methodologies, UAT coordination, solution design
 
-## 📊 Portfolio Projects
-🔜 **Coming Soon:** Power BI dashboards, Python data analysis projects, SQL portfolio
+## 📊 Featured Projects
 
-## 📫 Connect With Me
-- 📧 Email: terrencewere@gmail.com
-- 💼 LinkedIn: [Henry Shitubi](https://ke.linkedin.com/in/terrencewere)
+### [Sales Performance Optimization](#)
+*Business Analysis + Data Implementation*
+- Conducted stakeholder interviews to define KPIs
+- Built automated reporting dashboards (Power BI)
+- Delivered 15% improvement in sales visibility
 
-## 🎯 Currently Learning
-- Advanced Tableau for enterprise dashboards
-- dbt for data transformation
-- Cloud data platforms
+### [Process Improvement Case Study](#)
+*Process Mapping + Data Validation*
+- Mapped AS-IS/TO-BE processes for operational workflow
+- Validated improvements with data analysis
+- Achieved 30% reduction in process cycle time
+
+### [Requirements to Implementation](#)
+*End-to-End Project Delivery*
+- Gathered requirements from 5+ departments
+- Translated into technical specifications
+- Oversaw implementation and user acceptance testing
