@@ -11,20 +11,28 @@ I specialize in translating complex business requirements into data-driven solut
 
 ## 📊 Featured Projects
 
-### [Sales Performance Optimization](#)
+### [Sales Analytics Dashboard](https://github.com/TerrenceWere/ba-project-showcase/tree/main/sales-analytics-case-study)
 *Business Analysis + Data Implementation*
-- Conducted stakeholder interviews to define KPIs
-- Built automated reporting dashboards (Power BI)
-- Delivered 15% improvement in sales visibility
+- Conducted stakeholder interviews with 15+ executives to define KPIs
+- Built automated Power BI dashboards serving 80+ users
+- Delivered 94% reduction in manual reporting time and 240% ROI
+- [View Case Study](https://github.com/TerrenceWere/ba-project-showcase/tree/main/sales-analytics-case-study)
 
-### [Process Improvement Case Study](#)
-*Process Mapping + Data Validation*
-- Mapped AS-IS/TO-BE processes for operational workflow
-- Validated improvements with data analysis
-- Achieved 30% reduction in process cycle time
+### [School Meals Impact Analysis](https://github.com/TerrenceWere/ba-project-showcase/tree/main/education-impact-case-study)
+*Social Impact + Data-Driven Policy*
+- Analyzed educational outcomes for 2,000+ students across 5 schools
+- Delivered 12% attendance improvement and 16% academic performance increase
+- Provided evidence-based recommendations adopted by 3 school districts
+- [View Case Study](https://github.com/TerrenceWere/ba-project-showcase/tree/main/education-impact-case-study)
 
-### [Requirements to Implementation](#)
-*End-to-End Project Delivery*
-- Gathered requirements from 5+ departments
-- Translated into technical specifications
-- Oversaw implementation and user acceptance testing
+### [Business Analysis Toolkit](https://github.com/TerrenceWere/business-analysis-toolkit)
+*IIBA-Aligned Methodology & Templates*
+- Comprehensive BA framework following IIBA BABOK® standards
+- 9 professional templates covering all 6 knowledge areas
+- Stakeholder analysis, requirements management, and process modeling templates
+- [Explore Toolkit](https://github.com/TerrenceWere/business-analysis-toolkit)
+
+## 🔗 Connect With Me
+- [LinkedIn](https://ke.linkedin.com/in/terrencewere)
+- [Email](mailto:terrencewere@gmail.com)
+- [GitHub Portfolio](https://github.com/TerrenceWere)
